@@ -90,7 +90,8 @@ response = agent.query(
 ```
 
 ## OUTPUT:
-![alt text](img.png)
+![image](https://github.com/user-attachments/assets/ffb72e48-681a-4cb4-a127-9b8011488aac)
+
 
 ## RESULT:
 Prompt Handling: The program constructs a query dynamically and feeds it into the LlamaIndex.
